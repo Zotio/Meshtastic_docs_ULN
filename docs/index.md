@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: Meshtastic Ульяновск
-  text: Добро пожаловать в руководство по настройке Meshtastic для пользователей из Ульяновска.
+  name: Добро пожаловать
+  text: в руководство по настройке Meshtastic для пользователей из Ульяновска.
   tagline:  Канал LongFast | Частота 868.825 МГц 
   actions:
     - theme: brand
@@ -29,3 +29,9 @@ hero:
 - [Карта нод.](https://map.onemesh.ru/?lat=54.3093454&lng=48.4249877&zoom=10)
 - [Схема сети.](https://malla-test-ru.meshworks.ru/traceroute-graph?region=ULY)
   иногда может не работать
+- [meshworks.ru](https://meshworks.ru/) Всероссийское сообщество по Mesh сетям
+
+- - - - - - - - - -
+
+- [meshtastic.org](https://meshtastic.org/) - официальный сайт проекта Meshtastic
+- [meshcore.io](https://meshcore.io/) - официальный сайт проекта meshcore

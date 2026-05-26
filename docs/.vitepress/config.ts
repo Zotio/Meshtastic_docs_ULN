@@ -37,7 +37,8 @@ export default defineConfig({
         text: "Новичку",
         items: [
           { text: "Что такое Meshtastic", link: "/guide/whoismrmeshtastic" },
-          { text: "Как выбрать ноду", link: "/index" },
+          { text: "Как выбрать ноду", link: "/guide/choice" },
+          { text: "Как выбрать антенну", link: "/guide/ant" },
           { text: "-", link: "/index" },
           { text: "Настройка", link: "/guide/appset" },
           { text: "-", link: "/index" },
