@@ -4,7 +4,6 @@ layout: home
 hero:
   name: Meshtastic Ульяновск
   text: Добро пожаловать в руководство по настройке Meshtastic для пользователей из Ульяновска.
-
   tagline:  Канал LongFast | Частота 868.825 МГц 
   actions:
     - theme: brand

@@ -1,8 +1,7 @@
 import { defineConfig } from "vitepress";
 
-// refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
-  base: "/Mestastic_docs_ULN/",
+  base: "/Meshtastic_docs_ULN/",
   lang: "ru-RU",
   title: "Meshtastic Ульяновск",
   description: "Vite & Vue powered static site generator.",
