@@ -8,17 +8,17 @@ hero:
   actions:
     - theme: brand
       text: Быстрый старт
-      link: /example
-    - theme: brand
+      link: /guide/quickstart
+    - theme: alt
       text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/Zotio/Meshtastic_docs_ULN
     - theme: alt
       text: Telegram
       link: https://t.me/meshtastic_ulsk
 
 ---
 
-## Гид по сайту
+## Гид
 
 - [Новичку](/guide/guide)
 - [Заметки](/other/placeholder) (в разработке)

@@ -8,9 +8,9 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: "Главная", link: "/example" },
+      { text: "Главная", link: "/index" },
       { text: "Гайд", link: "/guide/guide" },
-      { text: "неГлавная", link: "/example" },
+      { text: "неГлавная", link: "/index" },
       { text: "Сообщество", link: "/community" },
       { text: "Вопросы", link: "/other/troubleshooting" },
       // {
@@ -29,7 +29,7 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: "Example", link: "/example" },
+          { text: "Example", link: "/index" },
           // ...
         ],
       },
@@ -37,10 +37,10 @@ export default defineConfig({
         text: "Новичку",
         items: [
           { text: "Что такое Meshtastic", link: "/guide/whoismrmeshtastic" },
-          { text: "Как выбрать ноду", link: "/example" },
-          { text: "Пример", link: "/example" },
-          { text: "Настройка", link: "/example" },
-          { text: "Пример", link: "/example" },
+          { text: "Как выбрать ноду", link: "/index" },
+          { text: "-", link: "/index" },
+          { text: "Настройка", link: "/guide/appset" },
+          { text: "-", link: "/index" },
           { text: "Словарь", link: "/other/glossary" },
           { text: "Вопросы", link: "/other/troubleshooting" },
         ],
