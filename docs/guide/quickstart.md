@@ -1,16 +1,24 @@
 # Быстрый старт 
 
-Быстрый старт - эксперементальная возможность для пользователей Android присоедениться к сети почти не вникая в настройки оборудования.    
+Быстрый старт - экспериментальная возможность для пользователей Android присоединиться к Mesh-сети за несколько шагов.
 
 0. Любой быстрый старт начинается с долгого выбора, покупки [устройства](/guide/choice) и [антенны](/guide/ant), а так же [прошивки](/guide/flashing).
 1. Скачать конфиг для вашей ноды.    
 2. В настройках приложения найти кнопку "Импорт настроек" -> выбрать загруженный конфиг -> Сохранить.    
-3. В конфиге уже настроены основные настройки: Канал LongFast, Устройство, Местоположение, MQTT. Вам останется только ввести ID и имя [пользователя](/guide/appset.html#%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C), выбрать *регион* и *включить предачу* в настройках [LoRa](/guide/appset.html#lora) 
+3. В конфиге уже настроены основные параметры.    
+Ваша задача:
+-  Настройки -> [пользователь](/guide/appset.html#%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C) ->  **Полное имя** и **Короткое имя**  
+- Настройки -> [LoRa](/guide/appset.html#lora) -> **Регион** (Россия), а так же включить **Передача включена**    
+    
 
-<details>
-  <summary>Настройка после установки бекапа</summary>
-  <p>Вам останется только установить имя .</p>
-</details>
+<details><summary>Настройки мобильной ноды</summary><p style="padding-left: 15px;">
+    Настройки -> <a href="/Meshtastic_docs_ULN/guide/appset.html#%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C">Пользователь</a> -> <strong>Полное имя</strong> и <strong>Короткое имя</strong>.<br><br>
+    Настройки -> <a href="/Meshtastic_docs_ULN/guide/appset.html#lora">LoRa</a> -> <strong>Регион</strong> (Россия), а так же включить <strong>Передача включена</strong>.</p></details>
+<details><summary>Настройки стационарной ноды</summary><p style="padding-left: 15px;">
+    Настройки -> <a href="/Meshtastic_docs_ULN/guide/appset.html#%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C">Пользователь</a> -> <strong>Полное имя</strong> и <strong>Короткое имя</strong>.<br><br>
+    Настройки -> <a href="/Meshtastic_docs_ULN/guide/appset.html#lora">LoRa</a> -> <strong>Регион</strong> (Россия), а так же включить <strong>Передача включена</strong>.<br><br>
+    Настройки -> Настройки устройства -> <a href="/Meshtastic_docs_ULN/guide/appset.html#%D0%BC%D0%B5%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5">Местоположение</a> -> <strong>Установить местоположение с телефона</strong>.<br>
+    </p></details>
 
 - - - -
 ## Доступные конфиги 

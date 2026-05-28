@@ -5,7 +5,7 @@ export default defineConfig({
   base: "/Meshtastic_docs_ULN/",
   lang: "ru-RU",
   title: "Meshtastic Ульяновск",
-  description: "Vite & Vue powered static site generator.",
+  description: "Руководство по настройке Meshtastic Ульяновск",
   markdown: {
     config: (md) => {
       tabsPlugin(md);
@@ -34,7 +34,7 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: "Example", link: "/index" },
+          { text: "Главная", link: "/index" },
           // ...
         ],
       },

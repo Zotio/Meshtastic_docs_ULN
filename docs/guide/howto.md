@@ -1,7 +1,8 @@
 Чтобы присоединиться к сети Meshtastic, вам понадобится:
-
-- [Нода](/other/glossary#node)   [Как выбрать ноду](/guide/ant#choice) 
-- [Антенна](/other/glossary#ant)   [Как выбрать антенну](/guide/choice#choice) 
+### Нода
+- [Что такео нода](/other/glossary#node)  _  [Как выбрать ноду](/guide/choice#choice) 
+### Fyntyyf
+- [Что такое антенна](/other/glossary#ant)  _  [Как выбрать антенну](/guide/ant#choice) 
 
 ## Руководство
 

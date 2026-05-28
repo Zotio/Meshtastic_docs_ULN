@@ -26,9 +26,9 @@ hero:
 
 ## Полезное
 
-- [Карта нод.](https://map.onemesh.ru/?lat=54.3093454&lng=48.4249877&zoom=10)
-- [Схема сети.](https://malla-test-ru.meshworks.ru/traceroute-graph?region=ULY)
-  иногда может не работать
+- [ONEmesh](https://map.onemesh.ru/?lat=54.3093454&lng=48.4249877&zoom=10) Карта нод
+- [malla.meshworks](https://malla-test-ru.meshworks.ru/traceroute-graph?region=ULY)
+  Схема сети (иногда может не работать)
 - [meshworks.ru](https://meshworks.ru/) Всероссийское сообщество по Mesh сетям
 
 - - - - - - - - - -
