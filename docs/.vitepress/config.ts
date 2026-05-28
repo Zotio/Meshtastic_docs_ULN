@@ -1,11 +1,16 @@
 import { defineConfig } from "vitepress";
+import tabsPlugin from "@red-asuka/vitepress-plugin-tabs";
 
 export default defineConfig({
   base: "/Meshtastic_docs_ULN/",
   lang: "ru-RU",
   title: "Meshtastic Ульяновск",
   description: "Vite & Vue powered static site generator.",
-
+  markdown: {
+    config: (md) => {
+      tabsPlugin(md);
+    },
+  },
   themeConfig: {
     nav: [
       { text: "Главная", link: "/index" },
@@ -44,6 +49,7 @@ export default defineConfig({
           { text: "-", link: "/index" },
           { text: "Словарь", link: "/other/glossary" },
           { text: "Вопросы", link: "/other/troubleshooting" },
+          { text: "Архив", link: "/archive/archive" },
         ],
       },
     ],

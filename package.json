@@ -7,6 +7,8 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "vitepress": "^2.0.0-alpha"
+    "@red-asuka/vitepress-plugin-tabs": "^0.0.4",
+    "vitepress": "^2.0.0-alpha",
+    "vue3-tabs-component": "^1.3.7"
   }
 }
